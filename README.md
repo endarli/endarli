@@ -6,7 +6,7 @@
 - 💬 Ask me about baking 👩🏻‍🍳
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/endar-li/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like Octopi
+- ⚡ Fun fact: One of my favorite desserts is Taiwanese shaved ice
 <!--
 **endarli/endarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
