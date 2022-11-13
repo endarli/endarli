@@ -1,5 +1,11 @@
 ### Hi there 👋
+### I'm Endar
 
+- 🌱 I’m currently learning Computer Engineering @ CWRU
+- 💬 Ask me about One Piece
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/endar-li/)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I like Octopi
 <!--
 **endarli/endarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
