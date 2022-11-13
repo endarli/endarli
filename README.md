@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on getting a visa to study abroad in the spring!
 - 🌱 I’m currently learning Computer Engineering @ CWRU
-- 💬 Ask me about One Piece
+- 💬 Ask me about baking 👩🏻‍🍳
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/endar-li/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like Octopi
