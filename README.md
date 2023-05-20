@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm Endar
 
-- 🔭 I’m currently working on getting a visa to study abroad in the spring!
-- 🌱 I’m currently learning Computer Engineering @ CWRU
+- 🔭 I’m currently working on finding a job for the summer!
+- 🌱 I’m currently learning @ Yonsei for an exchange semester
 - 💬 Ask me about baking 👩🏻‍🍳
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/endar-li/)
 - 😄 Pronouns: she/her
