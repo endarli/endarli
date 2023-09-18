@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm Endar
 
-- 🔭 I’m currently working on finding a job for the summer!
-- 🌱 I’m currently learning @ Yonsei for an exchange semester
+- 🔭 I’m currently working on finding a job after graduation!
+- 🌱 I’m currently learning LUA and Coppelia Sim
 - 💬 Ask me about baking 👩🏻‍🍳
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/endar-li/)
 - 😄 Pronouns: she/her
