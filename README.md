@@ -2,7 +2,7 @@
 ### I'm Endar
 
 - 🔭 I’m currently working on finding a job after graduation!
-- 🌱 I’m currently learning LUA and Coppelia Sim
+- 🌱 I’m currently learning how to use Python and LUA for Coppelia Sim
 - 💬 Ask me about baking 👩🏻‍🍳
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/endar-li/)
 - 😄 Pronouns: she/her
