@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Endar
 
-- 🔭 I’m currently working on finding a job after graduation!
+- 🔭 I’m currently working on graduating college!
 - 🌱 I’m currently learning how to use Python and LUA for Coppelia Sim
 - 💬 Ask me about baking 👩🏻‍🍳
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/endar-li/)
