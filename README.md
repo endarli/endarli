@@ -7,6 +7,10 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/endar-li/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: One of my favorite desserts is Taiwanese shaved ice
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=endarli&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=GitHub+Stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endarli&theme=github_dark&hide_border=true&langs_count=10)
 <!--
 **endarli/endarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
