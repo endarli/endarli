@@ -2,7 +2,7 @@
 ### I'm Endar
 
 - 🔭 I’m currently working on graduating college!
-- 🌱 I’m currently learning how to solve a Rubix cube
+- 🌱 I’m currently learning how to take care of a pothos plant
 - 💬 Ask me about baking 👩🏻‍🍳
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/endar-li/)
 - 😄 Pronouns: she/her
