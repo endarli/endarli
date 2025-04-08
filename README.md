@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Endar
 
-- 🔭 I’m currently working on graduating college!
+- 🔭 I’m currently working on a pdf converter!
 - 🌱 I’m currently learning how to take care of a pothos plant
 - 💬 Ask me about baking 👩🏻‍🍳
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/endar-li/)
