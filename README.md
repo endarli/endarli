@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm Endar
 
-- 🔭 I’m currently working on a pdf converter!
-- 🌱 I’m currently learning how to take care of a pothos plant
+- 🔭 I’m currently working on going through a web scraping book!
+- 🌱 I’m currently learning how to take care of plants
 - 💬 Ask me about baking 👩🏻‍🍳
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/endar-li/)
 - 😄 Pronouns: she/her
